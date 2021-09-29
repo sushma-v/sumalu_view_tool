@@ -5,8 +5,8 @@ require_relative "lib/sumalu_view_tool/version"
 Gem::Specification.new do |spec|
   spec.name          = "sumalu_view_tool"
   spec.version       = SumaluViewTool::VERSION
-  spec.authors       = ["TODO: Write your name"]
-  spec.email         = ["TODO: Write your email address"]
+  spec.authors       = ["Sushma V"]
+  spec.email         = ["v.sushma1@gmail.com"]
 
   spec.summary       = "Various view specific methods for application I use."
   spec.description   = "Provides generated HTML data for Rails application."
