@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+SumaluViewTool::Renderer.copyright 'Sushma V', "All rights reserved"
+```
 
 ## Development
 
